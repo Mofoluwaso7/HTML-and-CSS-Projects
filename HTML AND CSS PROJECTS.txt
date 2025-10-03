@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>HTML and CSS Projects</title>
+</head>
+<body>
+      <h1>HTML and CSS Projects</h1>
+      <p1>This document contains a starter repository></pi>
+        <p2>for small static websites></p2>
+        <p3>built with plain HTML and CSS></p3>
+        <p4>contains a starter index.html></p4>
+        <contact><drfoluso@yahoo.com></contact>
+      
+ <!-- Footer -->
+  <footer>
+    <p>© 2025 HTML and CSS Projects. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
