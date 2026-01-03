@@ -1,0 +1,192 @@
+(1)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All About Cats</title>
+</head>
+<body>
+
+    <!-- Consistent Navigation -->
+    <nav>
+        <a href="cats.html">Cats</a> |
+        <a href="birds.html">Birds</a> |
+        <a href="#about">About</a> |
+        <a href="#benefits">Why Cats</a> |
+        <a href="#facts">Fun Facts</a>
+    </nav>
+
+    <main>
+        <h1 id="about">The Domestic Cat</h1>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" alt="A cute cat">
+
+        <p>
+            Cats are small, carnivorous mammals that are often kept as pets.
+            They are known for their independence, agility, and playful nature.
+        </p>
+
+        <h2 id="benefits">Why Cats Are Great Pets</h2>
+        <ul>
+            <li>They are clean and groom themselves</li>
+            <li>They can be affectionate and loyal</li>
+            <li>They help reduce stress and loneliness</li>
+            <li>They require less space than many other pets</li>
+        </ul>
+
+        <h2 id="facts">Fun Facts About Cats</h2>
+        <p>
+            A cat can sleep up to 16 hours a day, and their whiskers help them
+            sense their surroundings. Each cat has a unique personality.
+        </p>
+
+        <p>
+            I also have a website about birds which you can check out here:
+            <a href="birds.html">Birds!</a>
+        </p>
+    </main>
+
+    <footer>
+        <p>Phone: 0899898880</p>
+    </footer>
+
+</body>
+</html>
+
+
+(2)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All About Birds</title>
+</head>
+<body>
+
+    <!-- Consistent Navigation with current page highlight -->
+    <nav>
+        <a href="cats.html">Cats</a> |
+        <a href="birds.html" style="font-weight: bold; color: blue;">Birds</a> |
+        <a href="#about">About</a> |
+        <a href="#facts">Fun Facts</a>
+    </nav>
+
+    <main>
+        <h1 id="about">All About Birds</h1>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/House_sparrow04.jpg" alt="A beautiful bird">
+
+        <p>
+            Birds are warm-blooded vertebrates characterized by feathers, beaks, 
+            and laying hard-shelled eggs. They are found all over the world and come 
+            in thousands of species.
+        </p>
+
+        <h2 id="facts">Fun Facts About Birds</h2>
+        <ul>
+            <li>Birds have hollow bones which help them fly</li>
+            <li>Some birds can mimic human speech, like parrots</li>
+            <li>Many birds migrate thousands of miles annually</li>
+            <li>Birds communicate using songs and calls</li>
+        </ul>
+
+        <h2>Watch a Bird Video</h2>
+        <p>Check out this YouTube video about birds:</p>
+
+        <a href="https://www.youtube.com/watch?v=9HlWbK0xibA" target="_blank">
+            Watch Bird Video on YouTube
+        </a>
+
+    </main>
+
+    <footer>
+        <p>Phone: 0899898880</p>
+    </footer>
+
+</body>
+</html>
+
+
+(3)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All About Cats and Birds</title>
+</head>
+<body>
+
+    <!-- Navigation linking to sections on the same page -->
+    <nav>
+        <a href="#cats" style="font-weight: bold; color: blue;">Cats</a> |
+        <a href="#birds">Birds</a>
+    </nav>
+
+    <main>
+        <!-- Cats Section -->
+        <section id="cats">
+            <h1>The Domestic Cat</h1>
+
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" alt="A cute cat">
+
+            <p>
+                Cats are small, carnivorous mammals that are often kept as pets.
+                They are known for their independence, agility, and playful nature.
+            </p>
+
+            <h2>Why Cats Are Great Pets</h2>
+            <ul>
+                <li>They are clean and groom themselves</li>
+                <li>They can be affectionate and loyal</li>
+                <li>They help reduce stress and loneliness</li>
+                <li>They require less space than many other pets</li>
+            </ul>
+
+            <h2>Fun Facts About Cats</h2>
+            <p>
+                A cat can sleep up to 16 hours a day, and their whiskers help them
+                sense their surroundings. Each cat has a unique personality.
+            </p>
+        </section>
+
+        <!-- Birds Section -->
+        <section id="birds">
+            <h1>All About Birds</h1>
+
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/House_sparrow04.jpg" alt="A beautiful bird">
+
+            <p>
+                Birds are warm-blooded vertebrates characterized by feathers, beaks, 
+                and laying hard-shelled eggs. They are found all over the world and come 
+                in thousands of species.
+            </p>
+
+            <h2>Fun Facts About Birds</h2>
+            <ul>
+                <li>Birds have hollow bones which help them fly</li>
+                <li>Some birds can mimic human speech, like parrots</li>
+                <li>Many birds migrate thousands of miles annually</li>
+                <li>Birds communicate using songs and calls</li>
+            </ul>
+
+            <h2>Watch a Bird Video</h2>
+            <p>Check out this YouTube video about birds:</p>
+            <a href="https://www.youtube.com/watch?v=9HlWbK0xibA" target="_blank">
+                Watch Bird Video on YouTube
+            </a>
+        </section>
+    </main>
+
+    <footer>
+        <p>Phone: 0899898880</p>
+    </footer>
+
+</body>
+</html>
+
+
+
+3
